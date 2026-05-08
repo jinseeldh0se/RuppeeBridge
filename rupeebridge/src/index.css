@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Syne", sans-serif;
+  --font-sans: "DM Sans", sans-serif;
+  --color-navy: #0a0f1e;
+  --color-brand: #f97316;
+  --color-brand-dark: #ea6c00;
+  --color-brand-light: #fff7ed;
+  --color-sol-purple: #9945ff;
+  --color-sol-green: #14f195;
+}
